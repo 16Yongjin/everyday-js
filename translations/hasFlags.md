@@ -1,3 +1,4 @@
+[수정 필요]
 현재 프로세스의 인수에 지정된 플래그가 포함되어 있는지 확인합니다.
 
 -`array.prototype.every ()`및`array.prototype.includes ()``process.argv`에 지정된 플래그가 포함되어 있는지 확인하십시오.

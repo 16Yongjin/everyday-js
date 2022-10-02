@@ -1,3 +1,4 @@
+[수정 필요]
 두 벡터 사이의 각도 (theta)를 계산합니다.
 
 -`array.prototype.reduce ()`,`math.pow ()`및`math.sqrt ()`를 사용하여 각 벡터의 크기와 두 벡터의 스칼라 제품을 계산하십시오.

@@ -1,3 +1,4 @@
+[수정 필요]
 node.js에서 uuid를 생성합니다.
 
 -`crypto.randombytes ()`를 사용하여 UUID를 생성하고 [rfc4122] (https://www.ietf.org/rfc/rfc4122.txt) 버전 4.

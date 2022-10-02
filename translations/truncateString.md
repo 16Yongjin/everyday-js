@@ -1,3 +1,4 @@
+[수정 필요]
 지정된 길이까지 문자열을 자릅니다.
 
 -`string.prototype.length`가`num '보다 큰지 결정하십시오.

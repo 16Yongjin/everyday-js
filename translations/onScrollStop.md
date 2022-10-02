@@ -1,3 +1,4 @@
+[수정 필요]
 사용자가 스크롤을 중지 할 때마다 콜백을 실행합니다.
 
 -`eventTarget.addeventListener ()`를 사용하여` 'scroll' '이벤트를 들으십시오.

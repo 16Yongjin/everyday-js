@@ -1,3 +1,4 @@
+[수정 필요]
 현재 페이지의 스크롤 위치를 반환합니다.
 
 -`window.pagexoffset` 및`wind

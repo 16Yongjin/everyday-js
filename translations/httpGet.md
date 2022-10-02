@@ -1,3 +1,4 @@
+[수정 필요]
 전달 된 URL에 'get'요청을합니다.
 
 -` xmlhttprequest` 웹 API를 사용하여 주어진`url '에 대한'get '요청을하십시오.

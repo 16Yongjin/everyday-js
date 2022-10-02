@@ -1,3 +1,4 @@
+[수정 필요]
 문자열을 클립 보드에 복사하여 클립 보드의 내용이 업데이트되었을 때 해결되는 약속을 반환합니다.
 
 - [Clipboard API] (https://developer.mozilla.org/en-us/web/api/clipboard_api)를 확인하십시오. `if` 문을 사용하여 'navigator',`navigator.clipboard '및`navigator.clipboard.writetext'를 확인하십시오.

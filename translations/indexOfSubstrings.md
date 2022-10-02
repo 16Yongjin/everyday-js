@@ -1,3 +1,4 @@
+[수정 필요]
 주어진 문자열에서 서브 스트링의 모든 인덱스를 찾습니다.
 
 -`array.prototype.indexof ()`를 사용하여`str '에서`searchValue`를 찾으십시오.

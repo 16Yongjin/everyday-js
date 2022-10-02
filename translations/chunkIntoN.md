@@ -1,3 +1,4 @@
+[수정 필요]
 배열을`n '더 작은 배열로 덩어리합니다.
 
 -`math.ceil ()`및`array.prototype.length`를 사용하여 각 청크의 크기를 얻으십시오.

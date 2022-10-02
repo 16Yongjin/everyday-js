@@ -1,3 +1,4 @@
+[수정 필요]
 주어진 요소에서 문서 상단까지의 거리를 찾습니다.
 
 -`while 'loop 및`htmlelement.offsetparent`를 사용하여 주어진 요소의 오프셋 부모를 위로 올리십시오.

@@ -1,3 +1,4 @@
+[수정 필요]
 주어진 선택기가 객체로부터 표시된 일련의 속성을 검색합니다.
 
 - 각 선택기에 대해`array.prototype.map ()`를 사용하여`string.prototype.replace ()`를 도트로 대체하십시오.

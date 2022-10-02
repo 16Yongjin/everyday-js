@@ -1,3 +1,4 @@
+[수정 필요]
 물체를 깊이 얼립니다.
 
 -`object.keys ()`를 사용하여 전달 된 객체의 모든 속성을 가져와`array.prototype.foreach ()`를 반복하십시오.

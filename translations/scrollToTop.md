@@ -1,3 +1,4 @@
+[수정 필요]
 페이지 상단에 매끄러운 스크롤.
 
 -`document.documentElement` 또는`d

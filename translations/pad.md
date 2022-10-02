@@ -1,3 +1,4 @@
+[수정 필요]
 지정된 '길이'보다 짧은 경우 지정된 문자로 양쪽에 문자열을 패드합니다.
 
 -`string.prototype.padstart ()`및`string.prototype.pandend ()`를 사용하여 주어진 문자열의 양쪽을 채우십시오.

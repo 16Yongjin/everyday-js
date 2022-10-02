@@ -1,3 +1,4 @@
+[수정 필요]
 콜백`n` 시간을 반복합니다.
 
 -`funct.prototype.call ()`를 사용하여`fn` n` n '을 호출하거나`false'를 반환 할 때까지.

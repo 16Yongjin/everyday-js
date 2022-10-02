@@ -1,3 +1,4 @@
+[수정 필요]
 원형 참조를 포함하는 JSON 객체를 JSON 형식으로 직렬화합니다.
 
 -`leackset.prototype.add ()`및`weachset.prototype.has ()`을 사용하여 보이는 값을 저장하고 확인할`weachset '을 작성하십시오.

@@ -1,3 +1,4 @@
+[수정 필요]
 쉼표로 구분 된 값 (CSV) 문자열을 2D 배열로 변환합니다.
 
 -`array.prototype.indexof ()`를 사용하여 첫 번째 Newline 문자 (`\ n`)을 찾으십시오.

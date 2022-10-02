@@ -1,3 +1,4 @@
+[수정 필요]
 지정된 요소가 뷰포트에 표시되는지 확인합니다.
 
 -``etment.getBoundingClientRect ()`,`wind

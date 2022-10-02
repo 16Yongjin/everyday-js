@@ -1,3 +1,4 @@
+[수정 필요]
 [SHA-256] (https://en.wikipedia.org/wiki/sha-2) 알고리즘을 사용하여 값에 대한 해시를 만듭니다.
 약속을 반환합니다.
 

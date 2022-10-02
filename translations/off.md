@@ -1,3 +1,4 @@
+[수정 필요]
 요소에서 이벤트 리스너를 제거합니다.
 
 -`eventTarget.removeEventListener ()`를 사용하여 요소에서 이벤트 리스너를 제거하십시오.

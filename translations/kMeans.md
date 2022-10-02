@@ -1,3 +1,4 @@
+[수정 필요]
 주어진 데이터를 [k-means 클러스터링] (https://en.wikipedia.org/wiki/k-means_clustering) 알고리즘을 사용하여`k` 클러스터로 그룹화합니다.
 
 -`array.from ()`및`array.prototype.slice ()`를 사용하여 클러스터`centroids`,`distances '및`class'에 적합한 변수를 초기화합니다.

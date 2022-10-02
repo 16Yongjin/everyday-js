@@ -1,3 +1,4 @@
+[수정 필요]
 [Luhn Algorithm] (https://en.wikipedia.org/wiki/luhn_algorithm)을 구현하여 신용 카드 번호, IMEI 번호, 국가 제공 업체 식별자 번호 등과 같은 다양한 식별 번호를 검증하는 데 사용됩니다.
 
 -`string.prototype.split ()`,`array.prototype.reverse ()`및`array.prototype.map ()`와 함께`parseint ()`를 사용하여 숫자 배열을 얻으십시오.

@@ -1,3 +1,4 @@
+[수정 필요]
 2D 배열을 쉼표로 구분 된 값 (CSV) 문자열로 변환합니다.
 
 -`array.prototype.map ()`및`array.prototype.join ()`를 사용하여 제공된 'Delimiter'를 사용하여 개별 1D 배열 (행)을 문자열로 결합하십시오.

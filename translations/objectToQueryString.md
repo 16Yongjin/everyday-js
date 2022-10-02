@@ -1,3 +1,4 @@
+[수정 필요]
 주어진 객체의 키 값 쌍에서 쿼리 문자열을 생성합니다.
 
 -`queryparameters '에서 쿼리 문자열을 만들려면`array.prototype.reduce ()``on 객체.entries ()`를 사용하십시오.

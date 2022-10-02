@@ -1,3 +1,4 @@
+[수정 필요]
 연속적인 요소의`n` tuples 배열을 만듭니다.
 
 -`array.prototype.slice ()`및`array.prototype.map ()`를 사용하여 적절한 길이의 배열을 만듭니다.

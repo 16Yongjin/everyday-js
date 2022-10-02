@@ -1,3 +1,4 @@
+[수정 필요]
 RGB 색상 튜플을 HSL 형식으로 변환합니다.
 
 -[RGB에서 HSL 변환 공식] (https://www.niwa.nu/2013/05/math-behind-colorspace-conversionsrinsions-rgb-hsl/)을 사용하여 적절한 형식으로 변환하십시오.

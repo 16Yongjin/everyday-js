@@ -1,3 +1,4 @@
+[수정 필요]
 Pub/Sub ([publish-subscribe] (https://en.wikipedia.org/wiki/publish%E2%80%93subscribe_pattern))) 이벤트 허브를`emit`,`on` 및`onfl` 메소드를 만듭니다.
 
 -`객체 .create ()`의 인수와 함께`객체.

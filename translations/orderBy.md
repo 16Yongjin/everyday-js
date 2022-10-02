@@ -1,3 +1,4 @@
+[수정 필요]
 속성 및 주문에 의해 순서 대상 객체 배열을 정렬합니다.
 
 -`array.prototype.sort ()`,`array.prototype.reduce ()``props '배열`0`의 기본값이있는``ray.prototype ()`,`array.prototype.reduce ()`.

@@ -1,3 +1,4 @@
+[수정 필요]
 HTML에서 사용하기 위해 문자열을 탈출합니다.
 
 - 'string.prototype.replace ()`'regexp를 사용하여 탈출 해야하는 문자와 일치하는 regexp를 사용하십시오.

@@ -1,3 +1,4 @@
+[수정 필요]
 숫자를 뒤집습니다.
 
 -`object.prototype.toString ()`을 사용하여`n '을 문자열로 변환하십시오.

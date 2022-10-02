@@ -1,3 +1,4 @@
+[수정 필요]
 새로운`mutationobserver '를 생성하고 지정된 요소에서 각 돌연변이에 대해 제공된 콜백을 실행합니다.
 
 - 주어진 요소의 돌연변이를 관찰하기 위해 [`mutationobserver`] (https://developer.mozilla.org/en-us/web/api/matuteobserver)를 사용하십시오.

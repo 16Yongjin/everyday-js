@@ -1,3 +1,4 @@
+[수정 필요]
 사용자가 지정된 요소 밖에서 클릭 할 때마다 콜백을 실행합니다.
 
 -`eventTarget.addeventListener ()`를 사용하여` 'Click'이벤트를 듣습니다.

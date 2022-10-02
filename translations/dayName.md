@@ -1,3 +1,4 @@
+[수정 필요]
 '날짜'객체에서 평일의 이름을 얻습니다.
 
 `{weekday : 'long'}`옵션과 함께`date.prototype.tolocaledatestring ()``````````````````````` '도 사용하십시오.

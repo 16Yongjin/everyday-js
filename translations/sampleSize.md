@@ -1,3 +1,4 @@
+[수정 필요]
 배열에서 배열 크기까지 고유 키에서`n` 랜덤 요소를 가져옵니다.
 
 -[Fisher-Yates 알고리즘] (https://github.com/30-seconds/30-seconds-of-code#shuffle)를 사용하여 배열을 셔플하십시오.

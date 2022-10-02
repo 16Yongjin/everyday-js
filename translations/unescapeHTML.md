@@ -1,3 +1,4 @@
+[수정 필요]
 Unescapes는 HTML 문자를 피했습니다.
 
 -`string.prototype.replace ()`````````````````````string.prototype.replace ()`````regexp가 escaped가 필요한 문자와 일치하는 regexp와 함께 사용하십시오.

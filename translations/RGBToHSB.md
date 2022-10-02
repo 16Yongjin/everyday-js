@@ -1,3 +1,4 @@
+[수정 필요]
 RGB 색상 튜플을 HSB 형식으로 변환합니다.
 
 - [rgb to hsb conversion formula] (https://en.wikipedia.org/wiki/hsl_and_hsv#from_rgb)를 사용하여 적절한 형식으로 변환하십시오.

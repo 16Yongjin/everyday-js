@@ -1,3 +1,4 @@
+[수정 필요]
 주어진 날짜의 마지막 날짜의 문자열 표현을 반환합니다.
 
 -`date.prototype.getPyarear ()`,`date.prototype.getmonth ()`를 사용하여 주어진 날짜부터 현재 연도와 월을 얻으십시오.

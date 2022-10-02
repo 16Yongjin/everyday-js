@@ -1,3 +1,4 @@
+[수정 필요]
 원래 배열을 돌려서 지정된 값을 필터링합니다.
 
 -`array.prototype.filter ()`및`array.prototype.includes ()`를 사용하여 필요하지 않은 값을 꺼내십시오.
