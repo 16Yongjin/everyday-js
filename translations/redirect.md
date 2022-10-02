@@ -1,4 +1,3 @@
-[수정 필요]
 지정된 URL로 리디렉션됩니다.
 
 - `window.location.href` 또는`Window.location.replace()`를 사용해서 `url`로 이동합니다.
