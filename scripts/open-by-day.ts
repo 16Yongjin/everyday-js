@@ -24,6 +24,7 @@ const translationPath = path.join(
 
 const main = async () => {
   $`code ${descriptionPath}`;
+  await new Promise((r) => setTimeout(r, 500));
   $`code ${translationPath}`;
 };
 
