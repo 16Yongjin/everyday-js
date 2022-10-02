@@ -9,22 +9,22 @@ if (!Number.isInteger(day)) {
   throw new Error('숫자를 입력해주세요.');
 }
 
-const codeName = codeNames[day];
+const codeName = codeNames[day - 1];
 
 const descriptionPath = path.join(
   __dirname,
   '../descriptions/',
-  `${codeName}.txt`
+  `${codeName}.md`
 );
 const translationPath = path.join(
   __dirname,
   '../translations/',
-  `${codeName}.txt`
+  `${codeName}.md`
 );
 
 const main = async () => {
-  await $`code ${descriptionPath}`;
-  await $`code ${translationPath}`;
+  $`code ${descriptionPath}`;
+  $`code ${translationPath}`;
 };
 
 main();

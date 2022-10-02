@@ -13,7 +13,7 @@ const main = async () => {
     const descriptionDir = path.join(
       __dirname,
       '../descriptions/',
-      codeName + '.txt'
+      codeName + '.md'
     );
 
     await fs.writeFile(descriptionDir, description);

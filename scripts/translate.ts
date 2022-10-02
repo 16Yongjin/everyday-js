@@ -10,11 +10,7 @@ import { createTranslateUrl } from './url';
   const start = 396;
 
   for (const [index, codeName] of codeNames.slice(start).entries()) {
-    const descPath = path.join(
-      __dirname,
-      '../descriptions/',
-      `${codeName}.txt`
-    );
+    const descPath = path.join(__dirname, '../descriptions/', `${codeName}.md`);
     const description = (await fs.readFile(descPath)).toString().trim();
     const translateUrl = createTranslateUrl(description);
     console.log('[', index + start, codeName, ']');
@@ -35,7 +31,7 @@ import { createTranslateUrl } from './url';
     const translationPath = path.join(
       __dirname,
       '../translations/',
-      `${codeName}.txt`
+      `${codeName}.md`
     );
 
     fs.writeFile(translationPath, koText);
